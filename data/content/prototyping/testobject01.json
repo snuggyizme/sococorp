@@ -1,0 +1,12 @@
+{
+	"x": 1,
+	"y": 1,
+	
+	"sprite": "res://assets/sprites/prototyping/prototypeBuildingAnimated.png",
+	
+	"doinput": false,
+	"input": [],
+	
+	"dooutput": false,
+	"output": [],
+}
