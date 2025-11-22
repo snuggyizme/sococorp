@@ -1,7 +1,9 @@
 {
 	"preplacedBuildings": [
 		{
-			"object": "res://data/content/prototyping/testobject01.json"
+			"object": "res://data/content/objects/testobject01.json",
+			"x": 0,
+			"y": 0,
 		}
 	],
 	"avaliableObjects": [

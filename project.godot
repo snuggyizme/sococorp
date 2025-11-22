@@ -14,6 +14,10 @@ config/name="sococorp"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://assets/icon.svg"
 
+[autoload]
+
+GlobalUtilities="*res://scripts/Utilities.gd"
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
